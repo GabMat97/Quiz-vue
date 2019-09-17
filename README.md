@@ -1,29 +1,4 @@
-# quiz
+# quiz app
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is my quiz application in Vue-js. To check it out run <b> npm install </b> on your terminal.
+Then run <b> npm run serve </b> and travel to the allocated local host.
